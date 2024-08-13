@@ -19,7 +19,7 @@ main_buttons = [[
         InlineKeyboardButton('📜ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/unreal_X_bot'),
         InlineKeyboardButton('📡ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Unreal_X_support')
         ],[
-        InlineKeyboardButton('💳ᴅᴏɴᴀᴛᴇ', callback_data='settings#main')
+        InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/SHUBHAM_X_Official')
         ]]
 #===================Start Function===================#
 
@@ -110,7 +110,7 @@ async def back(bot, query):
 async def about(bot, query):
     await query.message.edit_media(
         media=InputMediaPhoto(
-        media="https://graph.org/file/e223aea8aca83e99162bb.jpg",
+        media="https://telegra.ph/file/a87e65f65e37aafd745df.jpg",
         caption=Translation.ABOUT_TXT),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('• ʙᴀᴄᴋ', callback_data='back')]])
         )
