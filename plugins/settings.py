@@ -38,7 +38,7 @@ async def settings_query(bot, query):
         buttons.append([InlineKeyboardButton('✚ ᴀᴅᴅ ʙᴏᴛ ✚', 
                          callback_data="settings#addbot")])
         buttons.append([InlineKeyboardButton('✚ ᴀᴅᴅ ᴜꜱᴇʀʙᴏᴛ ✚', 
-                         callback_data="settings#adduserbot")])
+                         callback_data="settings#addlogin")])
      buttons.append([InlineKeyboardButton('• ʙᴀᴄᴋ', 
                       callback_data="settings#main")])
      await query.message.edit_text(
