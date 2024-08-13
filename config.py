@@ -9,7 +9,7 @@ class Config:
     BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '5340652544').split()]
     BOT_SESSION = environ.get("BOT_SESSION", "bot") 
 
-    PICS = (environ.get('PICS', 'https://telegra.ph/file/288c886149072f44e080f.jpg'))
+    PICS = (environ.get('PICS', 'https://telegra.ph/file/a87e65f65e37aafd745df.jpg'))
     
     DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://smkbotz:YPYAFx0wxDqTiyfE@cluster0.auq84bb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
