@@ -42,14 +42,13 @@ class Translation(object):
   
   ABOUT_TXT = """<b>
 ╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Jisshu_forward_bot>Auto Forward Bot</a>
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/MR_JISSHU>Mr.Jisshu</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/JISSHU_BOTS>JISSHU BOTS </a>   
+├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/SMForwardz_bot>Auto Forward Bot</a>
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/shubham_X_official>♡ ꜱʜᴜʙʜᴀᴍ ♡</a> 
+├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/Unreal_X_bot>ᴜɴʀᴇᴀʟ ʙᴏᴛ</a>   
+├◈ ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/unreal_X_support>ᴜɴʀᴇᴀʟ ꜱᴜᴘᴘᴏʀᴛ</a>
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>
-├◈ Bot Vᴇʀꜱɪᴏɴ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>V-2.4.1
-├◈ Bᴏᴛ Sᴏᴜʀᴄᴇ: <a href=https://github.com/Jisshubot/Jisshu-forward-bot>My Repo</a>
 ╰───────────────⍟</b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u>
