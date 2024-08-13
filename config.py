@@ -16,7 +16,7 @@ class Config:
     
     LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1002235766670"))
     
-    UPDATES_CHANNEL = "-1002198706552"
+    UPDATES_CHANNEL = "--1002235661888"
 
 
 class temp(object): 
