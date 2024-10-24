@@ -16,10 +16,10 @@ TIMEZONE = "Asia/Kolkata"
 main_buttons = [[
         InlineKeyboardButton('❗️ʜᴇʟᴘ', callback_data='help')
         ],[
-        InlineKeyboardButton('📜ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/unreal_X_bot'),
-        InlineKeyboardButton('📡ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Unreal_X_support')
+        InlineKeyboardButton('📜ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vr_unreal'),
+        InlineKeyboardButton('📡ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vr_support')
         ],[
-        InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/SHUBHAM_X_Official')
+        InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/VR_Necromancer')
         ]]
 #===================Start Function===================#
 
