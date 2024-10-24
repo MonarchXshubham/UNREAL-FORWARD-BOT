@@ -11,7 +11,7 @@ class Config:
 
     PICS = (environ.get('PICS', 'https://vault.pictures/p/4add4cab289149138c7f5ea4ec9d4813'))
     
-    DATABASE_URI = environ.get("DATABASE_URI", "DATABASE_URI", "mongodb+srv://madarazbotz:MJlmnDPtC63ihNK5@cluster0.7dxhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://madarazbotz:MJlmnDPtC63ihNK5@cluster0.7dxhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
     
     LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1002303065410"))
